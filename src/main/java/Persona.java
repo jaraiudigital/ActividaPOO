@@ -15,7 +15,7 @@ public class Persona {
         this.estatura = estatura;
         this.peso = peso;
     }
-// Método para mostrar los datos de la persona
+// Metodo para mostrar los datos de la persona..
     public void mostrarDatos() {
         System.out.println("Nombre: " + nombre + " " + apellido);
         System.out.println("Fecha de Nacimiento: " + fechaNacimiento);
